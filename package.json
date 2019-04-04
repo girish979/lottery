@@ -1,0 +1,23 @@
+{
+  "name": "mainnetdraw",
+  "version": "1.0.0",
+  "description": "Truffle Box for a bare-minimum Truffle project (`truffle init`)",
+  "main": "oracle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.skrumble.local/girish/mainnetdraw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fetch": "^1.1.0",
+    "web3": "^1.0.0-beta.51"
+  }
+}
